@@ -1,0 +1,6 @@
+{
+  "name": "MITRA KONSTRUKSI",
+  "description": "Website resmi MITRA KONSTRUKSI – Jasa konstruksi, renovasi rumah, plafon, baja ringan, dan interior di Lampung Tengah dan seluruh wilayah Lampung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

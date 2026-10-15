@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --color-brand-dark: #16324F;
+  --color-brand-primary: #245B86;
+  --color-brand-light: #F3F5F7;
+  --color-brand-charcoal: #202832;
+  --color-brand-accent: #F28C28;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-family: var(--font-sans);
+}
+
+/* Accessibility focus ring */
+:focus-visible {
+  outline: 2px solid #F28C28;
+  outline-offset: 2px;
+}
